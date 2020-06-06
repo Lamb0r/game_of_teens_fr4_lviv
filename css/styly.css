@@ -816,6 +816,7 @@ main_mountains1_check{
    margin-left:140px;
 }
 .main_Husti_bigbox{
+    text-align: center;
     float: left;
     margin-bottom: 50px;
 }
@@ -871,9 +872,11 @@ main_mountains1_check{
 }
 .price_suitcase_two{
     margin-top: 29px;
+    margin-left: 80px;
 }
 .price_suitcase_three{
     margin-top: 13px;
+    margin-left: 90px;
 }
 
 
@@ -927,12 +930,13 @@ main_mountains1_check{
 }
 .price_suitcase_two_two{
     margin-top: 20px;
-    margin-left: 8px;
+    margin-left: 98px;
     font-size: 26px;
    
 }
 .price_suitcase_three_two{
     margin-top: 0px;
+     margin-left: 88px;
     font-size: 26px;
 }
 .price_suitcase_one_two{
